@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001842388351",
+    "project_id": "psych-6346e",
+    "storage_bucket": "psych-6346e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001842388351:android:1f5c7e7c770149e7de7e4a",
+        "android_client_info": {
+          "package_name": "com.example.psychai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001842388351-cdgu6cu7mvmilsfrmbqujk0j47hkqonv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYN7pq1-B7WKeUPDfvsOWKdD5rhCNuYdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001842388351-cdgu6cu7mvmilsfrmbqujk0j47hkqonv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
